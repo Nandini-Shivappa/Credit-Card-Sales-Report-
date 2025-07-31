@@ -57,4 +57,4 @@ To use or repurpose this report, your data should include the following columns:
 - City	(Optional) Customer location
 
 ## Getting Started
-(https://github.com/Nandini-Shivappa/Credit-Card-Sales-Report-)
+(https://1drv.ms/u/c/b267266380dccd2e/EQTMnPU0c2dNo0fFoEW0M1wBfcXbTjJ7MNq7tQtFb9pqyw?e=tzee2X)
